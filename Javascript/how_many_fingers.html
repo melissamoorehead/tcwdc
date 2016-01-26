@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+	
+    <title>Learning Javascript</title>
+    <meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    
+</head>
+
+<body>
+	
+	<p>How many fingers are you holding up?</p>
+	<input id="myNumber" />
+	<button id="guess">Guess!</button>
+	
+	<script type="text/javascript">
+		
+		document.getElementById("guess").onclick=function() {
+			
+			var gotit=false; var guesses=1; var x; var check; var error=false;
+			
+			check=document.getElementById("myNumber").value;
+			
+			while (gotit==false) {
+			
+				x=Math.random();
+				x=11*x;
+				x=Math.floor(x);
+				
+				if (check==x){
+					gotit=true;
+					alert("I got it! It was "+x+". It took me "+guesses+" guesses!");
+				}
+				else if (check>10 || check<0) {
+					error=true;
+					alert("I give up! There must be an error somewhere.");
+					break;
+				}
+				else {
+					guesses++;
+				}
+			
+			}
+			
+		}
+		
+	</script>
+		
+</body>
+</html>
