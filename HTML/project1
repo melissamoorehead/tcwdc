@@ -1,0 +1,120 @@
+<!doctype html>
+<html>
+<head>
+	<title>My First Webpage</title>
+	<meta charset="utf-8" />
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body>
+<div>
+	<a name="top" />
+	<h1>A Summary of Dragon Age: Inquisition</h1>
+	<iframe width="840" height="473" src="https://www.youtube.com/embed/wqvIISBA3I4" frameborder="0" allowfullscreen></iframe>
+	<p><u>Dragon Age: Inquisition</u> is BioWare's third installment in the Dragon Age series, continuing the fantastic journey throughout the medieval-themed continent of Thedas, introduced in <u>Dragon Age: Origins</u> and <u>Dragon Age II.</u></p>
+	<hr />
+	<p><strong>WARNING! Some spoilers lie ahead!</strong></p>
+	<img src="http://img2.wikia.nocookie.net/__cb20141206214550/dragonage/images/2/2a/Dragon_Age_Inquisition_wallpaper.jpg" width="840"/>
+	<h2>The Story</h2>
+	<p>The game starts in 9:41 Dragon, one year after the events of <u>Dragon Age II</u>. Orlais is undergoing a civil war, threatening the stability of southern Thedas. The Circle of Magi have rebelled against the oppressive templars in a bid for independence, leading to all-out war. In a last-ditch effort for peace, <strike>Revered Mother Dorothea</strike> Divine Justinia V has orchestrated the Divine Conclave- a peace summit between the ambassadors of the templars and the rebel mages for the purpose of negotiating a peaceful compromise. A massive explosion kills the attendants of the Conclave and creates a massive tear in the Veil called The Breach, allowing Demons to invade Thedas unchecked. The player protagonist is the sole survivor of the explosion and wielder of the <em>Anchor</em>- a magical mark that bestows control over the Breach and Fade rifts. The player's miraculous accolades and ability to seal the Fade rifts leaves many to believe they are a messiah, specifically the Herald of Andraste. The player is inducted into the reborn <strong>Inquisition</strong>- an independent organization sanctioned by the late Divine Justinia to restore order should Thedas erupt into chaos- and eventually becomes its Inquisitor.</p>
+	<img src="http://img4.wikia.nocookie.net/__cb20140423004642/dragonage/images/4/4d/Inquisition_members.png" width="840"/>
+	<h2>The Characters</h2>
+	<h3>Advisors</h3>
+	<ul>
+		<li><strong>The Inquisitor</strong>: The protagonist of the game and leader of the Inquisition.</li>
+		<li><strong>Cullen</strong>: Advisor to the Inquisitor and a Knight-Captain of the Templar Order, who witnessed the deeds of both the Hero of Ferelden and the Champion of Kirkwall. He leads the Inquisition's military forces.</li>
+		<li><strong>Josephine Montilyet</strong>: Advisor to the Inquisitor, a skilled diplomat and an old friend of Leliana.</li>
+		<li><strong>Leliana</strong>: Advisor to the Inquisitor, the Left Hand of the Divine and, depending on player choice, former companion of the Hero of Ferelden. She leads the clandestine division of the Inquisition responsible for espionage and assassination.</li>
+	</ul>
+	<h3>Companions</h3>
+	<ul>
+		<li><strong>Blackwall</strong>: A Grey Warden of Orlais.</li>
+		<li><strong>Cassandra Pentaghast</strong>: The Right Hand of the Divine and one of the last loyal members of the Seekers of Truth.</li>
+		<li><strong>Cole</strong>: A mysterious ghost-like rogue, originally appearing in <u>Dragon Age: Asunder</u>.</li>
+		<li><strong>Dorian</strong>: An Altus mage from the Tevinter Imperium.</li>
+		<li><strong>Iron Bull</strong>: A Qunari mercenary and agent of the Ben-Hassrath.</li>
+		<li><strong>Sera</strong>: An elven archer and member of the enigmatic group of rogues known as the Friends of Red Jenny.</li>
+		<li><strong>Solas</strong>: An apostate elven mage and expert on the Fade.</li>
+		<li><strong>Varric Tethras</strong>: A dwarven rogue and member of the Merchant's guild, he's a consummate storyteller and former companion of the Champion of Kirkwall as featured in <u>Dragon Age II</u>.</li>
+		<li><strong>Vivienne</strong>: A Loyalist Circle mage and First Enchanter of Montsimmard, as well as Enchantress to the Imperial Court of Orlais.</li>
+	</ul>
+	<h3>Romance</h3>
+	<p>There are eight romances available in Inquisition. Six are companions and two are advisors. Some romances are restricted by gender, and two have been confirmed to be restricted by race.</p>
+	<table>
+		<tr><th>Name</th><th>Preference</th></tr>
+		<tr><td>Blackwall</td><td>| female Inquisitors only</td></tr>
+		<tr><td>Cassandra</td><td>| male Inquisitors only</td></tr>
+		<tr><td>Cullen</td><td>| female human/elven Inquisitors only</td></tr>
+		<tr><td>Dorian</td><td>| male Inquisitors only</td></tr>
+		<tr><td>Iron Bull</td><td>| male and female Inquisitors</td></tr>
+		<tr><td>Josephine</td><td>| male and female Inquisitors</td></tr>
+		<tr><td>Sera</td><td>| female Inquisitors only</td></tr>
+		<tr><td>Solas</td><td>| female elven Inquisitors only</td></tr>
+	</table>
+	<br />		
+	<img src="http://3ebd2a0c0ea48a333aea-1f531def8e8befb67be56667ce3edd11.r77.cf1.rackcdn.com/b5feace21c342ab7d408bf8b34e2cb8fcbde7543.jpg__1920x1080_q85_crop_upscale.jpg" width="840"/>
+	<h2>Gameplay and Combat</h2>
+	<p>Although touted as an <em>open world</em> game at E3 2013 presentation, the developers quickly clarified that Inquisition will not be open world in the same way as <u>The Elder Scrolls V: Skyrim</u>, but instead simply feature larger locations (than, presumably, Origins and Dragon Age II) with more exploration freedom. There are 10 large open world locations in the game. Gameplay continues post story completion, as opposed to retroactive DLC such as in Dragon Age II.</p>
+	<p>It is the first game in the series to feature mounts. The dialogue wheel, first featured in Dragon Age II, returns. Like in Dragon Age II, the wheel will display the type of emotion that matches your dialogue choice.</p>
+	<p>As in both previous installments, the player character can be one of three classes:</p> 
+	<ol>
+		<li>warrior</li>
+		<li>rogue</li>
+		<li>mage</li>
+	</ol>
+	<p>There are three specializations for each available later in the game. The player has the ability to choose one of 4 playable races - human, dwarf, elf or qunari - of either male or female gender. Body sliders are unavailable to customize the player character's physique; rather, the engine supports differing body shapes for each race. Two voice sets are available for each gender: in the English-language version of the game, one has a British accent, and the other an American one.</p>
+	<p>Like the Warden, the Warden-Commander, and Hawke in previous titles, the Inquisitor can recruit companions. There are a total of 9 possible party members that can be recruited. All companions can be customized via armor and in-class weapon style.</p>
+	<p>According to Mike Laidlaw, as in Dragon Age: Origins, the Inquisitor can speak to companions as desired, though not necessarily in every location.</p>
+	<p>Also according to Mike Laidlaw in an interview with Eurogamer, companions leave the party if approval ratings are too low, similar to Dragon Age: Origins, and it is possible to only have one companion remaining in the end. It's also possible for the companion to betray the Inquisitor depending on the choices made by the player.</p>
+	<img src="http://www.lightninggamingnews.com/wp-content/uploads/2014/10/9-minutes-of-PC-gameplay-footage-for-Dragon-Age-Inquisition-running-at-maximum-settings.jpg" width="840"/>
+	<p>Part of the gameplay of Inquisition involves obtaining and maintaining power in various regions of the map. In part, this is done through strongholds, which can be seized and used to accomplish various tasks, and which serve as a hub for promoting the interests of the Inquisition.</p>
+	<p>While playing, the GUI for Dragon Age: Inquisition includes a radar displaying important points and foes. Mike Laidlaw stated that it's better for battles. The game can be played using a tactical camera view (where the party is controlled from overhead), or from the third person.</p>
+	<p>Combat in Dragon Age: Inquisition has a greater focus on strategy than does Dragon Age II. Party health doesn't regenerate automatically after an encounter as it did in Dragon Age II and Dragon Age: Origins, and mage characters will not be able to repeatedly cast, or "spam," healing spells. Similarly, the ability to carry healing items will be limited, to instill a need to adequately prepare for combat and exploration.</p>
+	<p>With regards to the PC edition of Inquisition, Laidlaw revealed that the tactical quickbar will be locked at 8 slots, because "32 abilities (along with passives/upgrades) across the party provides a broad spectrum of tactical options."</p>
+	<p>During fights, the environments may be exploited and manipulated to a greater degree than in Dragon Age II. This capacity goes both ways, however. For example, a mage character may cast an "ice wall" spell to create cover on a battlefield or hem an enemy into a corner—a similar idea to a mage casting a fire spell after using a grease spell in Dragon Age: Origins—but the enemy may respond by melting the ice wall, eliminating the player's advantage.</p>
+	<strong>To incorporate decisions in previous games, or customize a whole new precedent, visit the <a href="http://www.dragonagekeep.com/">Dragon Age Keep</a> and sign in with your Origin account.</strong>
+	<hr />
+	<p>And that's all you need to know to get the basics of this awesome game!</p>
+	<h3>If you've played it already, please fill out the brief survey below.</h3>
+	<form>
+		<input type="text" placeholder="Name of Inquisitor" name="name"/>
+		<br />
+		<p>Which class(es) did you choose?</p>
+		<input type="checkbox" name="mage" value="1"/> Mage
+		<input type="checkbox" name="rogue" value="2"/> Rogue
+		<input type="checkbox" name="warrior" value="3"/> Warrior
+		<br />
+		<p>Which race(s) did you choose?</p>
+		<input type="checkbox" name="human" value="1"/> Human
+		<input type="checkbox" name="elf" value="2"/> Elf
+		<input type="checkbox" name="dwarf" value="3"/> Dwarf
+		<input type="checkbox" name="qunari" value="4"/> Qunari
+		<br />
+		<p>Who did you side with?</p>
+		<input type="radio" name="side"/> Rebel Mages (<em>In Hushed Whispers</em>)	
+		<input type="radio" name="side"/> Corrupted Templars (<em>Champions of the Just</em>)
+		<br />
+		<p>What was your favorite main quest?</p>
+		<select>
+			<option>Select an option...</option>
+			<option>The Wrath of Heaven</option>
+			<option>The Threat Remains</option>
+			<option>In Your Heart Shall Burn</option>
+			<option>From the Ashes</option>
+			<option>Here Lies the Abyss</option>
+			<option>Wicked Eyes and Wicked Hearts</option>
+			<option>What Pride Had Wrought</option>
+			<option>The Final Piece</option>
+			<option>Doom Upon All the World</option>
+		</select>
+		<br />
+		<p>Tell me about your experience(s) in Thedas.</p>
+		<textarea placeholder="Bare your blade/And raise it high/Stand your ground/The dawn will come" name="textarea" cols="105"></textarea>
+		<br /><br />
+		<input type="submit" value="Click to submit."/>
+	</form>
+	<h6>All the content used above can be originally found at the <a href="http://dragonage.wikia.com/wiki/Dragon_Age:_Inquisitionhttp://dragonage.wikia.com/wiki/Dragon_Age:_Inquisition">Dragon Age: Inquisition</a> wiki page. I own nothing except the game itself.</h6>
+	<p><a href="#top">Back to top</a></p>
+</div>
+</body>
+</html>
